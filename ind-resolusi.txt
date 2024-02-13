@@ -2,6 +2,5 @@ Ind Resolusi
 - Konsiten Belajar Web PHP
 - Konsinten Belajar Data Base
 - Konsisten Belajar Bahasa Inggris
-- Konsisten Belajar Java
 - Kedepannya bisa membuat web penjualan
 - Kedepannya bisa membuat database
